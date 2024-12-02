@@ -15,7 +15,8 @@ MARKDOWN_20241202
 | 데이터4 | 데이터5 | 데이터6 |
 
 ### 8. 이미지
-- '이미지는 ![이미지 텍스트](이미지URL)'
+- '이미지는 ![이미지 텍스트](이미지URL)'  
+![casting](https://github.com/user-attachments/assets/14ba7b0e-406d-4e36-be49-1d1d1a6c62e4)
 
 ### 7. 강조(Emphasis)
 - 굵게(Bold) : **텍스트** 또는 __text__
